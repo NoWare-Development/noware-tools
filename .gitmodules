@@ -1,0 +1,3 @@
+[submodule "nwhex"]
+	path = nwhex
+	url = git@github.com:NoWare-Development/nwhex.git
